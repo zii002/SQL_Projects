@@ -28,3 +28,5 @@ See `02_basic_analysis.sql` for the queries.
 
 - SQL Server 2025 Developer Edition
 - SQL Server Management Studio (SSMS)
+
+- The CSV file was imported into SQL Server using SSMS ‘Import Flat File’ wizard into the dbo.BicycleTrips table defined in 01_create_table.sql
